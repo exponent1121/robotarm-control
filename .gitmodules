@@ -1,0 +1,3 @@
+[submodule "core-algorithm"]
+	path = core-algorithm
+	url = https://github.com/shinejihun1227/robotarm
