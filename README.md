@@ -31,7 +31,7 @@
 * 추출된 픽셀 좌표를 로봇팔의 3D 물리적 공간 제어 좌표계로 매핑.
 * 계산된 타겟 좌표 데이터를 ESP32로 전송하여, 외부 환경 변화에 따라 로봇팔이 실시간으로 목표 위치로 이동하는 피드백 제어 시스템 완성.
 
-## 🎥 시연 사진
+## 📷 시연 사진
 <img width="1835" height="1002" alt="ArUCo 마커 탐지" src="https://github.com/user-attachments/assets/5d3d562d-a6d3-4078-9503-fa462712fbdf" />
 <img width="1862" height="1019" alt="hsv 객체 탐지" src="https://github.com/user-attachments/assets/527af715-07a1-4a3f-b92a-3cbe51b688f6" />
 <img width="1913" height="1080" alt="openCV 스마트폰 카메라 연동" src="https://github.com/user-attachments/assets/a801d79c-0ac9-4485-a09b-81302e2685ef" />
